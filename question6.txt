@@ -1,0 +1,11 @@
+Q6)What are IDs and classes in HTML, and how do they differ?
+ID is unique and used for a single element.
+
+A class can be used on multiple elements on the same page, meaning multiple elements can share the same class.
+example :
+<!-- ID example: -->
+<div id="header">This is a unique header</div>
+
+<!-- Class example: -->
+<div class="content">This is content #1</div>
+<div class="content">This is content #2</div>
