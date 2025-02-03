@@ -1,0 +1,12 @@
+Q5)Why do we use meta tags?
+Meta tags provide metadata about a web page, helping search engines, browsers, and social media understand the content.
+we nameuse met tag as they improve SEO, control how content appears in search results, define character encoding, enable responsive design, and facilitate social media sharing.
+example:
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="This is an example of a meta tag for SEO purposes.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="Meta Tag Example">
+  <meta property="og:description" content="An example of using meta tags in HTML.">
+</head>
