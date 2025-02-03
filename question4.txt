@@ -1,0 +1,16 @@
+Semantic HTML means using HTML elements that clearly describe their meaning and purpose in a web page. These elements improve readability, accessibility, and SEO.
+
+For example, instead of using a <div> for a navigation bar, we use <nav>, which explicitly defines its role.
+Semantic Elements	  
+<header> → Defines the header section	
+<nav> → Defines navigation links	
+<section> → Groups related content	
+<article> → Represents an independent article	
+
+
+Non-Semantic Elements
+<div> → Generic container
+<span> → Inline container
+<b> → Bold text (without meaning)
+<i> → Italic text (without meaning)
+
