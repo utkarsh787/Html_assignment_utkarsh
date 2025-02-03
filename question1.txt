@@ -1,0 +1,22 @@
+Q1) What is HTML, and how is an HTML document structured?
+
+HTML  is known as HyperText Markup Language.
+it  is the standard language used to create web pages. It structures content using tags like <h1>, <p>, and <img>.
+Basic Structure of an HTML Document:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>This is a simple HTML page.</p>
+</body>
+</html>
+
+    <!DOCTYPE html> → Declares the document type
+    <html> → Root of the document
+    <head> → Contains metadata (title, styles, etc.)
+    <body> → Contains the visible content of the page
+
